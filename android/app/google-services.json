@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "262020845534",
+    "firebase_url": "https://testeautentica-47549.firebaseio.com",
+    "project_id": "testeautentica-47549",
+    "storage_bucket": "testeautentica-47549.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262020845534:android:5acac528d979218753174f",
+        "android_client_info": {
+          "package_name": "com.contextaprendendo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262020845534-33aohg0609okihfaj32k1q5m3rvlef8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnpF8Vg3kT_sOs9tKSmyyR9qoO-AmmBV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262020845534-33aohg0609okihfaj32k1q5m3rvlef8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
